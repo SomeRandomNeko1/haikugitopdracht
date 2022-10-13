@@ -14,10 +14,10 @@ def Haiku2():
     print("Niet schreeuwen")
 
 def Haiku3(): 
-    print("haiku by:","AUTHOR") 
-    print("REGEL1") 
-    print("REGEL2") 
-    print("REGEL3")
+    print("haiku by:","Li Hong") 
+    print("Niet pesten ") 
+    print("Luisteren naar meester") 
+    print("Op tijd komen in de les")
 
 
 
