@@ -8,10 +8,10 @@ def Haiku1():
     print("Niet mensen steken")
 
 def Haiku2(): 
-    print("haiku by:","AUTHOR") 
-    print("REGEL1") 
-    print("REGEL2") 
-    print("REGEL3")
+    print("haiku by:","Trung Toan") 
+    print("Niet stelen") 
+    print("RESPECT voor elkaar") 
+    print("Niet schreeuwen")
 
 def Haiku3(): 
     print("haiku by:","AUTHOR") 
